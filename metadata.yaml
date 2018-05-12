@@ -1,0 +1,29 @@
+_repo: Historic-Highways-of-America--Vol.-3-Washington-s-Road-and-The-First-Chapter-of-the-Old-Frenc__40932
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hulbert, Archer Butler
+    birthdate: 1873
+    deathdate: 1933
+    gutenberg_agent_id: '1112'
+    url: http://www.gutenberg.org/2009/agents/1112
+description: ''
+gutenberg_issued: '2012-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40932'
+  lccn: 03001138
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Historic Highways of America, Vol. 3
+subjects:
+- !lcsh 'Washington, George, 1732-1799 -- Military leadership'
+- !lcc 'E151'
+- !lcsh 'United States -- History -- French and Indian War, 1754-1763'
+title: Washington's Road (Nemacolin's path) the First Chapter of the Old French War
+url: http://www.gutenberg.org/ebooks/40932
